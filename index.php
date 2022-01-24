@@ -2,9 +2,9 @@
 <html>
 
 <head>
-    <title>吃掉小鹿乃</title>
-    <meta itemprop="name" content="吃掉小鹿乃" />
-    <meta itemprop="description" content="新概念音游" />
+    <title>吃掉小梁浩</title>
+    <meta itemprop="name" content="吃掉小梁浩" />
+    <meta itemprop="description" content="迫害群主小游戏" />
     <meta itemprop="image" content="https://www.thac.cc/kano/res/logo.jpg" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
@@ -29,7 +29,7 @@
             <div id="GameScoreLayer-score" style="margin:10px 0;">得分</div>
             <div id="GameScoreLayer-bast">最佳</div>
             <button type="button" class="btn btn-secondary btn-lg" onclick="replayBtn()">重来</button>
-            <button type="button" class="btn btn-secondary btn-lg" onclick="goRank();">排行</button>
+            <button type="button" class="btn btn-secondary btn-lg" onclick="goRank();">看看多少人在迫害群主</button>
             <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/arcxingye/EatKano'">开源</button>
         </div>
     </div>
@@ -38,10 +38,10 @@
         <div class="welcome-bg FILL"></div>
         <div class="FILL BOX-M" style="position:absolute;top:0;left:0;right:0;bottom:0;z-index:5;">
             <div style="margin:0 8% 0 9%;">
-                <div style="font-size:2.6em; color:#FEF002;">新概念音游</div><br />
+                <div style="font-size:2.6em; color:#FEF002;">迫害群主！！</div><br />
                 <div style="font-size:2.2em; color:#fff; line-height:1.5em;">
-                    从最底下小鹿乃开始<br />
-                    看看你20秒能多少分<br />
+                    从最底下小梁浩开始<br />
+                    看看你20秒能吃多少<br />
                 </div>
                 <br />
                 <div id="btn_group" style="display: block;">
